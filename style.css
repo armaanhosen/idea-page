@@ -1,0 +1,27 @@
+body{
+    background-color: #e3ece8;
+}
+a img{
+    height: 51px;
+}
+.bg-primar{
+    background-color: #562EFF;
+}
+.top-brand{
+    color: white;
+}
+.contain{
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.navbar{
+    margin-bottom: 30px;
+}
+.top-profile{
+    height: 679px;
+    background-color: white;
+}
+.top-profile h2{
+    color: #562EFF;
+}
