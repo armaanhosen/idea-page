@@ -9,19 +9,39 @@ a img{
 }
 .top-brand{
     color: white;
-}
-.contain{
-    width: 75%;
-    margin-left: auto;
-    margin-right: auto;
+  text-align: center;
 }
 .navbar{
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 .top-profile{
-    height: 679px;
     background-color: white;
 }
-.top-profile h2{
+.top-profile h3{
     color: #562EFF;
+    padding-left: 25px;
+    padding-top: 35px;
+}
+.row div img{
+    width: 56px;
+}
+.profiles{
+    margin-top: 50px;
+    padding-left: 80px;
+}
+.col-md-4{
+    padding: 15px;
+}
+hr{
+    padding-bottom: 10px;
+}
+main{
+    max-width: 870px;
+}
+.header{
+    max-width: 870px;
+}
+.top-profile{
+    background-color: #ffffff;
+    border-radius: 5px;
 }
