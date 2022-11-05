@@ -81,5 +81,17 @@ main{
     width: 14px;
 }
 .card-footer .time img{
-    width: 17px;
+    width: 20px;
+}
+.card-footer .time p{
+    font-size: 14px;
+    color: #FF4A60;
+}
+.time{
+    background-color: rgb(247, 221, 221);
+    padding: 2px 8px;
+    border-radius: 20px;
+}
+.card-text{
+    color: #f56e7e;
 }
