@@ -15,14 +15,15 @@ a img{
     margin-bottom: 20px;
 }
 .top-profile{
-    background-color: white;
+    background-color: #ffffff;
+    border-radius: 5px;
 }
-.top-profile h3{
+.top-pl{
     color: #562EFF;
     padding-left: 25px;
     padding-top: 35px;
 }
-.row div img{
+.rows div img{
     width: 56px;
 }
 .profiles{
@@ -32,16 +33,39 @@ a img{
 .col-md-4{
     padding: 15px;
 }
-hr{
-    padding-bottom: 10px;
-}
 main{
     max-width: 870px;
 }
 .header{
     max-width: 870px;
 }
-.top-profile{
-    background-color: #ffffff;
-    border-radius: 5px;
+.top-bl{
+    color: #562EFF;
+    padding-left: 25px;
+    padding-top: 15px;
+}
+.blog-img{
+    width: 177px;
+    margin: 15px 10px 10px 20px;
+}
+.bottom-igm{
+    padding-bottom: 30px;
+}
+.blog-text{
+    padding-top: 15px;
+}
+.blog-name span{
+    color: gray;
+    font-size: 18px;
+}
+.blog-name{
+    color: #562EFF;
+    font-size: 19px;
+}
+.blog-text h4{
+    line-height: 1.4;
+    font-size: 22px;
+}
+.bolding{
+    font-weight: 500;
 }
