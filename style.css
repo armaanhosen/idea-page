@@ -12,11 +12,12 @@ a img{
   text-align: center;
 }
 .navbar{
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 .top-profile{
     background-color: #ffffff;
     border-radius: 5px;
+    margin-bottom: 20px;
 }
 .top-pl{
     color: #562EFF;
@@ -68,4 +69,29 @@ main{
 }
 .bolding{
     font-weight: 500;
+}
+.card-footer{
+    border: none;
+    background-color: #ffffff;
+}
+.card{
+    border: none;
+}
+.card-footer .star img{
+    width: 14px;
+}
+.card-footer .time img{
+    width: 20px;
+}
+.card-footer .time p{
+    font-size: 14px;
+    color: #FF4A60;
+}
+.time{
+    background-color: rgb(247, 221, 221);
+    padding: 2px 8px;
+    border-radius: 20px;
+}
+.card-text{
+    color: #f56e7e;
 }
